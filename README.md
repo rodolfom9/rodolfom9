@@ -2,17 +2,15 @@
 
 - Linguagens: Rust (na luta), Python  
 - Bibliotecas/Frameworks:  
-  - **Vulkano** (Vulkan em Rust)  
+  - **Wgpu**
   - **GDAL** / **gdal-sys**  
   - **Qt / QML / Qt Widgets**  
   - **Slint**  
-  - **Proj**, **Geo**, **Geos** (análise espacial)  
 ---
 ## 🚀 Projetos em destaque
 
 Aqui estão alguns dos meus projetos:
 
-- **ProjectRust** — Engine SIG escrita em Rust, com renderização GPU (Vulkano) e integração com QML / Slint com foco futuro em topografia (se eu conseguir) 
-- **RodolfoM9/rodolfom9** — Meu repositório pessoal, com vários experimentos, libs e projetos
+- **ProjectRust** — Engine SIG escrita em Rust e integração com QML / (se eu conseguir) 
 - **RMCGEO** — Plugin para QGIS
 - **RMCGEO MEMORIAL** — Plugin QGIS para confecção de memorial descritivo.
