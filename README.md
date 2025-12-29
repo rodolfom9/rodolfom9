@@ -8,7 +8,7 @@
 ### 🚀 Principais Projetos
 
 - **ProjectRust**  
-  Engine SIG de alto desempenho escrita em **Rust**, com arquitetura modular e integração planejada com **QML**.
+  Engine SIG de alto desempenho escrita em **Rust**, com arquitetura modular (Descontinuado, muita gambiarra).
 
 - **RMCGEO**  
   Plugin para **QGIS** focado em soluções geoespaciais e produtividade técnica.
