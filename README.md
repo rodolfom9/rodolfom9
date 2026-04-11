@@ -7,8 +7,7 @@
 </div>
 ### 🚀 Principais Projetos
 
-- **ProjectRust**  
-  Engine SIG de alto desempenho escrita em **Rust** (Descontinuado, muita gambiarra).
+- **ProjectRust** 
 
 - **RMCGEO**  
   Plugin para **QGIS** focado em soluções geoespaciais e produtividade técnica.
