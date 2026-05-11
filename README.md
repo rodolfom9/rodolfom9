@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=000000" height="18"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfom9)](https://github.com/rodolfom9/github-readme-stats)
-
 ### 🚀 Principais Projetos
 
 - **ProjectRust** 
