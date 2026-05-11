@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/FLUTTER-%20?style=flat-square&logo=flutter&logoColor=white&color=02569B" height="18"/>
   <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=3776AB" height="18"/>
   <img src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=000000" height="18"/>
+  <img src="https://img.shields.io/badge/UNITY-%20?style=flat-square&logo=unity&logoColor=white&color=000000" height="18"/>
+  <img src="https://img.shields.io/badge/QGIS-%20?style=flat-square&logo=qgis&logoColor=white&color=589632" height="18"/>
 </div>
 
 ### 🚀 Principais Projetos
@@ -15,4 +17,4 @@
   Plugin para **QGIS** que automatiza a geração de **memoriais descritivos**, reduzindo erros e aumentando a eficiência profissional.
 
 - **GeoDominion**  
-  Jogo para Android desenvolvido 100% em **KotlinMultiplatform** ainda em desenvolvimento. 
+  Jogo para Android 100% em **KotlinMultiplatform** ainda em desenvolvimento. 
