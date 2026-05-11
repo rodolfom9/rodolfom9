@@ -15,4 +15,4 @@
   Plugin para **QGIS** que automatiza a geração de **memoriais descritivos**, reduzindo erros e aumentando a eficiência profissional.
 
 - **GeoDominion**  
-  Jogo para Android desenvolvido 100% em **KotlinMultiplatform** ainda em desenvolvimento.
+  Jogo para Android desenvolvido 100% em **KotlinMultiplatform** ainda em desenvolvimento. 
