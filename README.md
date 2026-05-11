@@ -8,8 +8,6 @@
 
 ### 🚀 Principais Projetos
 
-- **ProjectRust** 
-
 - **RMCGEO**  
   Plugin para **QGIS** focado em soluções geoespaciais e produtividade técnica.
 
